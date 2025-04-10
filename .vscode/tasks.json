@@ -2,9 +2,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "buld_and_run",
+            "label": "build_and_run",
             "type": "shell",
-            "command": "sh buld_and_run.sh",
+            "command": "sh build_and_run.sh",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
