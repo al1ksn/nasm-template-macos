@@ -36,8 +36,8 @@ nasmbox/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/al1ksn/nasmbox.git
-   cd nasmbox
+    git clone https://github.com/al1ksn/nasm-template-macos.git
+    cd nasm-template-macos
    ```
 
 2. **Build the image and initialize scripts:**
