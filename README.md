@@ -1,10 +1,11 @@
 # nasm-template-macos
 
-Mini‑sandbox to run NASM labs on macOS; made for CS Architecture course at SUSU.  
-
-> **Status:** Tested locally on macOS Sonoma
 [![Release](https://img.shields.io/github/v/release/al1ksn/nasm-template-macos)](https://github.com/al1ksn/nasm-template-macos/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/al1ksn/nasm-template-macos)](https://hub.docker.com/r/al1ksn/nasm-template-macos)
 
+Mini‑sandbox to run NASM labs on macOS; made for CS Architecture course at SUSU.
+
+> **Status:** Tested locally on macOS Sonoma ✅
 
 ---
 
