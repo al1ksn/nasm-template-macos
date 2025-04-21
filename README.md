@@ -1,6 +1,9 @@
 # nasm-course-macos  
 Mini‑sandbox to run NASM labs on macOS; made for CS Architecture course at SUSU.  
 
+> **Status:** Tested locally on macOS Sonoma 
+
+---
 
 ## 📁 Project Structure
 
