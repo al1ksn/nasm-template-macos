@@ -1,6 +1,6 @@
-# nasmbox
+# nasm-course-macos  
+Mini‑sandbox to run NASM labs on macOS; made for CS Architecture course at SUSU.  
 
-**nasmbox** is a minimalistic Docker-based environment for building and running x86-64 assembly code. It provides a clean and isolated workflow for compiling and executing `.asm` files across platforms with zero setup on the host system.
 
 ## 📁 Project Structure
 
